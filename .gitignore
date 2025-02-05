@@ -1,0 +1,10 @@
+/target/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+.mvn/
+!**/mvnw*
+*.class
+docker-compose.override.yml
+.docker/
