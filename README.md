@@ -29,9 +29,8 @@ Ensure you have the following installed:
 
 ### Build & Run
 ```sh
-git clone https://github.com/yourusername/task-prioritization-api.git
-cd task-prioritization-api
-mvn clean package
+git clone https://github.com/prodanov33/TaskApplication
+mvn package #if maven is not installed, use your IDE’s built-in Maven lifecycle
 ```
 
 ## 🔐 Authentication
