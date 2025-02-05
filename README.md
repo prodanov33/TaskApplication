@@ -31,6 +31,7 @@ Ensure you have the following installed:
 ```sh
 git clone https://github.com/prodanov33/TaskApplication
 mvn package #if maven is not installed, use your IDE’s built-in Maven lifecycle
+docker compose up --build
 ```
 
 ## 🔐 Authentication
